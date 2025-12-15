@@ -28,6 +28,7 @@ All components are fully serverless, ensuring scalability, security, and minimal
 ## 🧱 Architecture Overview
 
 The application follows a cloud-native serverless architecture with seamless integration between AWS services.
+![Architecture Diagram](archi.png)
 
 ---
 
